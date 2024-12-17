@@ -1,0 +1,15 @@
+C:\Users\Sefa\source\repos\MainStokApp\MainStokApp\bin\Debug\MainStokApp.exe.config
+C:\Users\Sefa\source\repos\MainStokApp\MainStokApp\bin\Debug\MainStokApp.exe
+C:\Users\Sefa\source\repos\MainStokApp\MainStokApp\bin\Debug\MainStokApp.pdb
+C:\Users\Sefa\source\repos\MainStokApp\MainStokApp\obj\Debug\MainStokApp.csproj.AssemblyReference.cache
+C:\Users\Sefa\source\repos\MainStokApp\MainStokApp\obj\Debug\MainStokApp.Form1.resources
+C:\Users\Sefa\source\repos\MainStokApp\MainStokApp\obj\Debug\MainStokApp.Properties.Resources.resources
+C:\Users\Sefa\source\repos\MainStokApp\MainStokApp\obj\Debug\MainStokApp.csproj.GenerateResource.cache
+C:\Users\Sefa\source\repos\MainStokApp\MainStokApp\obj\Debug\MainStokApp.csproj.CoreCompileInputs.cache
+C:\Users\Sefa\source\repos\MainStokApp\MainStokApp\obj\Debug\MainStokApp.exe
+C:\Users\Sefa\source\repos\MainStokApp\MainStokApp\obj\Debug\MainStokApp.pdb
+C:\Users\Sefa\source\repos\MainStokApp\MainStokApp\obj\Debug\MainStokApp.LoginForm.resources
+C:\Users\Sefa\source\repos\MainStokApp\MainStokApp\obj\Debug\MainStokApp.FormRaporlar.resources
+C:\Users\Sefa\source\repos\MainStokApp\MainStokApp\obj\Debug\MainStokApp.FormCalisan.resources
+C:\Users\Sefa\source\repos\MainStokApp\MainStokApp\obj\Debug\MainStokApp.Formİade.resources
+C:\Users\Sefa\source\repos\MainStokApp\MainStokApp\obj\Debug\MainStokApp.FormUrun.resources
